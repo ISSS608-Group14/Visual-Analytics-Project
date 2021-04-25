@@ -1,8 +1,7 @@
 ---
-title: "Welcome to ISSS608Group14"
+title: "Welcome to ISSS608 Group14"
 description: |
-  Welcome to our new blog, ISSS608Group14. We hope you enjoy 
-  reading what we have to say!
+  Welcome to our group blog, ISSS608Group14. We are 3 passionate master students from Singapore Management University. We hope you enjoy reading what we have to say! This blog is dedicated to our visual analytic group project.
 author:
   - name: Xinyue Bai, Hongting Li, Weimin Zhang
 date: 03-23-2021
@@ -11,5 +10,6 @@ output:
     self_contained: false
 ---
 
+### Project Introduction 
 
-
+Where does the data visualisation stands today? Collected and organized by Data Visualization Society, Annual Data visualization Community Survey includes 50+ data visualization related questions and covers data visualization details such as salary, tool usage, demographic data, audiences and organizational structure. This survey provides valuable insights for organizations, practitioners and people who love data visualisation. As three university students passionate about data visualisation, the objective of this project is to design and develop an interactive R Shiny application to allow audiences to explore data visualisation community survey data, and to maximise the insights obtained from the survey data. We demonstrate survey result from 3 dimensions, interactive exploratory data analysis, cluster analysis and association analysis. Application’s design framework and project findings are also discussed. 
