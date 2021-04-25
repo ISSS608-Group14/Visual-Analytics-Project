@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-23T00:07:02+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "ISSS608Group14",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-23T00:07:03+08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
