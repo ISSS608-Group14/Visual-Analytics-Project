@@ -2,7 +2,7 @@
   {
     "path": "posts/2021-04-26-visual-analytic-project/",
     "title": "Visual Analytic Project",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
         "name": "Xinyue Bai, Hongting Li, Weimin Zhang",
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\nFinal Deliverables:\nR Shiny\nPoster\nUser Guide\nResearch Paper\nGithub Page\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-04-26T10:02:56+08:00",
+    "last_modified": "2021-04-26T10:04:31+08:00",
     "input_file": "visual-analytic-project.utf8.md"
   },
   {

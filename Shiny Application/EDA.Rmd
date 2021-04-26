@@ -1,0 +1,277 @@
+---
+title: "For app"
+author: "YolandaZhang"
+date: "4/18/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, include=FALSE}
+library("readr")
+library('tidyverse')
+library( 'ggstatsplot')
+library("ggplotify")
+library("parallelPlot")
+library("dplyr")
+library( 'plotly')
+
+
+```
+
+```{r,include=FALSE}
+data <- read_csv("cleaned_survey_results_2019.csv")
+glimpse(data)
+
+```
+
+
+```{r}
+
+countries <- filter(data, `What country do you live in?` %in% c("USA", "Australia","Canada","Singapore","China")) %>%filter(`What is your educational background`  %in% c("PhD","Bachelors","Masters","Technical School"))%>%filter(`What's your gender identity?`  %in% c("Man","Woman"))%>%filter(`The organization you work for is in which of the following areas?`  %in% c("Academic","Not-for-profit","Private sector","Public sector"))%>%filter(`What area is your next priority for improving your data visualization skills?`  %in% c("Improving my design skills","Improving my data skills","Learning a new technical tool or library","Improving my skills with an existing technical tool or library"))
+
+```
+
+
+
+
+
+
+
+### Demography
+
+For the demography part, gender, education background and country lived of the data visualization professionals will be checked for distribution. 
+
+
+```{r}
+CountryNew <- countries %>% 
+
+  group_by(`What country do you live in?`,`What is your educational background` ) %>% 
+  tally() %>% 
+    
+    
+  complete(`What is your educational background`, fill = list(n = 0)) %>% 
+  mutate(percentage = n / sum(n) * 100)
+    
+p<-ggplot(CountryNew, aes(`What country do you live in?`, percentage, fill = `What is your educational background`)) + 
+  geom_bar(stat = 'identity', position = 'dodge') +
+   geom_errorbar(stat = 'identity', position = 'dodge',aes(ymin = percentage - 2* sd(percentage), ymax = percentage + 2*sd(percentage)))+ 
+   coord_flip() +
+    
+  theme_bw()
+
+
+
+ ggplotly (p)
+```
+
+
+
+
+```{r}
+CountryNew <- countries %>% 
+
+  
+  
+
+
+  group_by(`What country do you live in?`,`What's your gender identity?`) %>% 
+  tally() %>% 
+    
+
+    
+  complete(`What's your gender identity?`, fill = list(n = 0)) %>% 
+  mutate(percentage = n / sum(n) * 100)
+    
+p<-ggplot(CountryNew, aes(`What country do you live in?`, percentage, fill = `What's your gender identity?` )) + 
+  geom_bar(stat = 'identity', position = 'dodge') +
+   geom_errorbar(stat = 'identity', position = 'dodge',aes(ymin = percentage - 2* sd(percentage), ymax = percentage + 2*sd(percentage)))+ 
+   coord_flip()
+
+
+
+ ggplotly (p)
+```
+
+
+
+
+```{r}
+CountryNew <- countries %>% 
+
+  group_by(countries$`What country do you live in?`,`What's your gender identity?` ) %>% 
+  tally() %>% 
+
+    
+  complete(`What's your gender identity?` , fill = list(n = 0)) %>% 
+  mutate(percentage = n / sum(n) * 100)
+    
+p<-ggplot(CountryNew, aes(`What country do you live in?`, percentage, fill = `What's your gender identity?` )) + 
+  geom_dotplot(stat = 'identity', position = 'dodge') +
+   geom_errorbar(stat = 'identity', position = 'dodge',aes(ymin = percentage - 2* sd(percentage), ymax = percentage + 2*sd(percentage)))+ 
+   coord_flip() +
+    
+  theme_bw()
+
+
+
+ ggplotly (p)
+```
+
+
+
+### Job
+For the Job part, we can compare the time spent on each stage of data visualisation work. We can also check the proportion of organisations using data visualisaiton in each area and the proportion of organisations that have a separate data visualisation group. 
+
+```{r}
+comparison<-select(countries,c(16:21))
+histoVisibility <- rep(TRUE, ncol(comparison))
+parallelPlot(comparison, histoVisibility = histoVisibility)
+
+
+
+```
+
+```{r}
+CountryNew <- countries %>% 
+
+
+  group_by(`What country do you live in?`,`For the majority of your projects: were you hired to do data visualization only or is data visualization a part of your job/project description?`) %>% 
+  tally() %>% 
+    
+
+    
+  complete(`For the majority of your projects: were you hired to do data visualization only or is data visualization a part of your job/project description?`, fill = list(n = 0)) %>% 
+  mutate(percentage = n / sum(n) * 100)
+    
+p<-ggplot(CountryNew, aes(`What country do you live in?`, percentage, fill = `For the majority of your projects: were you hired to do data visualization only or is data visualization a part of your job/project description?`)) + 
+  geom_bar(stat = 'identity', position = 'dodge') +
+   geom_errorbar(stat = 'identity', position = 'dodge',aes(ymin = percentage - 2* sd(percentage), ymax = percentage + 2*sd(percentage)))+ 
+   coord_flip() +
+    
+  theme_bw()
+
+
+
+ ggplotly (p)
+```
+
+
+```{r}
+CountryNew <- countries %>% 
+
+
+  group_by(`What country do you live in?`,`Is there a separate group dedicated to creating data visualization or are data visualization specialists embedded in another group? (data science, UX, UI, web, data engineering, IT, etc)`) %>% 
+  tally() %>% 
+    
+
+    
+  complete(`Is there a separate group dedicated to creating data visualization or are data visualization specialists embedded in another group? (data science, UX, UI, web, data engineering, IT, etc)`, fill = list(n = 0)) %>% 
+  mutate(percentage = n / sum(n) * 100)
+    
+p<-ggplot(CountryNew, aes(`What country do you live in?`, percentage, fill = `Is there a separate group dedicated to creating data visualization or are data visualization specialists embedded in another group? (data science, UX, UI, web, data engineering, IT, etc)`)) + 
+  geom_bar(stat = 'identity', position = 'dodge') +
+   geom_errorbar(stat = 'identity', position = 'dodge',aes(ymin = percentage - 2* sd(percentage), ymax = percentage + 2*sd(percentage)))+ 
+   coord_flip() +
+    
+  theme_bw()
+
+
+
+ ggplotly (p)
+```
+
+
+```{r}
+CountryNew <- countries %>% 
+
+
+  group_by(`What country do you live in?`,`The organization you work for is in which of the following areas?`) %>% 
+  tally() %>% 
+    
+
+    
+  complete(`The organization you work for is in which of the following areas?`, fill = list(n = 0)) %>% 
+  mutate(percentage = n / sum(n) * 100)
+    
+p<-ggplot(CountryNew, aes(`What country do you live in?`, percentage, fill = `The organization you work for is in which of the following areas?`)) + 
+  geom_bar(stat = 'identity', position = 'dodge') +
+   geom_errorbar(stat = 'identity', position = 'dodge',aes(ymin = percentage - 2* sd(percentage), ymax = percentage + 2*sd(percentage)))+ 
+   coord_flip() +
+    
+  theme_bw()
+
+
+
+ ggplotly (p)
+```
+
+
+
+### challenge
+
+For the challenge part, the willingness of the data visualization professionals to keep improving their data visualisation skills and the area of priority to improve their data visualization skills could be investigated. Proportion of the levels of willingness and the areas for improvement could be examined. Scatter plots with error bars will be used here to present the probability of each level of willingness and area for improvement and projected the sample probability to the population one with a confidence interval. We can also break down the analysis using variables from the three fields above using a variable selection parameter and focus on measure value we are look at only.
+
+
+
+```{r}
+CountryNew <- countries %>% 
+
+
+  group_by(`What country do you live in?`,`What area is your next priority for improving your data visualization skills?`) %>% 
+  tally() %>% 
+    
+
+    
+  complete(`What area is your next priority for improving your data visualization skills?`, fill = list(n = 0)) %>% 
+  mutate(percentage = n / sum(n) * 100)
+    
+p<-ggplot(CountryNew, aes(`What country do you live in?`, percentage, fill = `What area is your next priority for improving your data visualization skills?`)) + 
+  geom_bar(stat = 'identity', position = 'dodge') +
+   geom_errorbar(stat = 'identity', position = 'dodge',aes(ymin = percentage - 2* sd(percentage), ymax = percentage + 2*sd(percentage)))+ 
+   coord_flip() +
+    
+  theme_bw()
+
+
+
+ ggplotly (p)
+```
+
+
+```{r}
+CountryNew <- countries %>% 
+
+
+  group_by(`What country do you live in?`,`Do you want to spend more time or less time visualizing data in the future?`) %>% 
+  tally() %>% 
+    
+
+    
+  complete(`Do you want to spend more time or less time visualizing data in the future?`, fill = list(n = 0)) %>% 
+  mutate(percentage = n / sum(n) * 100)
+    
+p<-ggplot(CountryNew, aes(`What country do you live in?`, percentage, fill =`Do you want to spend more time or less time visualizing data in the future?`)) + 
+  geom_bar(stat = 'identity', position = 'dodge') +
+   geom_errorbar(stat = 'identity', position = 'dodge',aes(ymin = percentage - 2* sd(percentage), ymax = percentage + 2*sd(percentage)))+ 
+   coord_flip() +
+    
+  theme_bw()
+
+
+
+ ggplotly (p)
+```
+
+
+```{r}
+comparison<-select(countries,c(35:37))
+histoVisibility <- rep(TRUE, ncol(comparison))
+parallelPlot(comparison, histoVisibility = histoVisibility)
+
+
+
+```
+

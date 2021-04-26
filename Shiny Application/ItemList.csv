@@ -1,0 +1,1360 @@
+"id","What technologies do you use to visualize data? Select all that apply._01","What technologies do you use to visualize data? Select all that apply._02","What technologies do you use to visualize data? Select all that apply._03","What technologies do you use to visualize data? Select all that apply._04","What technologies do you use to visualize data? Select all that apply._05","What technologies do you use to visualize data? Select all that apply._06","What technologies do you use to visualize data? Select all that apply._07","What technologies do you use to visualize data? Select all that apply._08","What technologies do you use to visualize data? Select all that apply._09","What technologies do you use to visualize data? Select all that apply._10","What technologies do you use to visualize data? Select all that apply._11","What technologies do you use to visualize data? Select all that apply._12","What technologies do you use to visualize data? Select all that apply._13","What technologies do you use to visualize data? Select all that apply._14","What technologies do you use to visualize data? Select all that apply._15","What technologies do you use to visualize data? Select all that apply._16","What technologies do you use to visualize data? Select all that apply._17","What technologies do you use to visualize data? Select all that apply._18","What technologies do you use to visualize data? Select all that apply._19","What technologies do you use to visualize data? Select all that apply._20"
+1,"ArcGIS","Excel","ggplot2","Gephi","Illustrator","Java","Leaflet","Mapbox","Plotly","Python","QGIS","R","Tableau","Web Components","Pen & Paper","Other physical materials","Canvas","GeoDa",NA,NA
+2,"Excel","Tableau","Piktochart","Venngage","Flourish",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,"Excel","Power BI","R","Tableau","Pen & Paper","PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4,"Excel","Google data studio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,"Excel","Google data studio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,"D3","Illustrator","Leaflet","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,"Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,"D3","Angular","Excel","Java","R","React","Vega","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,"ArcGIS","D3","Excel","Illustrator","Leaflet","Mapbox","Processing","Python","QGIS","Pen & Paper","P5/Processing","Three.js",NA,NA,NA,NA,NA,NA,NA,NA
+10,"D3","Excel","Java","Mapbox","Python","R","Vega","Vue","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,"Excel","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,"Illustrator","Mapbox","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,"D3","Excel","Illustrator","Mapbox","kepler.gl","Python","Vega","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,"Excel","ggplot2","Gephi","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,"Excel","ggplot2","Gephi","Plotly","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,"Excel","ggplot2","Power BI","Python","R","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,"ArcGIS","D3","Excel","Gephi","Illustrator","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,"Excel","Highcharts","Illustrator","Mapbox","kepler.gl","Plotly","Power BI","QGIS","Canvas","Matplotlib","Flourish",NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,"Excel","Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,"Python","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,"Cytoscape","Excel","ggplot2","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,"D3","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,"ArcGIS","D3","Excel","Illustrator","Leaflet","Mapbox","Power BI","QGIS","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,"ArcGIS","Excel","Illustrator","R","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,"D3","Angular","Excel","ggplot2","Gephi","Illustrator","Power BI","Python","R","Tableau","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA
+27,"Excel","ggplot2","Gephi","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,"ArcGIS","Excel","Illustrator","Mapbox","kepler.gl","Plotly","Python","QGIS","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,"R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,"D3","Excel","React","Tableau","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,"Excel","ggplot2","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,"Excel","Python","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,"ggplot2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,"Pen & Paper","Other physical materials","MS Office",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,"Excel","Leaflet","Plotly","Power BI","Python","QGIS","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,"ArcGIS","D3","Excel","ggplot2","Highcharts","Leaflet","Mapbox","Plotly","Power BI","Python","QGIS","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA
+42,"Excel","ggplot2","Mapbox","QGIS","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,"Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,"Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,"D3","Excel","Illustrator","Mapbox","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,"Excel","Illustrator","Mapbox","Tableau","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48,"Excel","ggplot2","Python","R","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,"ggplot2","Gephi","Highcharts","Leaflet","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+51,"D3","Excel","ggplot2","Illustrator","Mapbox","Plotly","Python","Tableau","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+52,"D3","ggplot2","Illustrator","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,"D3","ggplot2","Leaflet","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,"D3","Plotly","Python","Vega","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,"ggplot2","Illustrator","Python","R","Matlab",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,"ggplot2","Leaflet","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57,"R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+58,"D3","Gephi","Plotly","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,"Excel","Power BI","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+61,"Excel","ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,"Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63,"Excel","ggplot2","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+64,"ArcGIS","Excel","Highcharts","Illustrator","Mapbox","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+65,"Excel","ggplot2","R","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66,"Excel","ggplot2","Gephi","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67,"Excel","Gephi","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+68,"Excel","ggplot2","R","Pen & Paper","Matlab","ShowMyData.org",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+69,"Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,"D3","Google Sheets",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+71,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,"Excel","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73,"Excel","Gephi","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+74,"D3","Power BI","other bi tools",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+75,"Excel","Microstrategy","Power BI","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77,"ggplot2","Gephi","Power BI","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78,"ArcGIS","Excel","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+79,"Microstrategy","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80,"ggplot2","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+81,"Cytoscape","D3","ggplot2","Java","Plotly","Processing","Python","R","React","WebGL","Canvas","P5/Processing","Cytoscape.js",NA,NA,NA,NA,NA,NA,NA
+82,"ggplot2","Leaflet","Plotly","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+83,"ArcGIS","Excel","Qlik","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+84,"D3","Excel","Illustrator","Power BI","Pen & Paper","Visio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,"Excel","Domo",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+86,"Excel","ggplot2","Python","R","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+87,"Excel","ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+88,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89,"Qlik",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+90,"D3","Excel","Microstrategy","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,"Excel","ggplot2","Power BI","Python","Qlik","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+92,"Power BI","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,"R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+94,"Tableau","SAP Business Objects",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+95,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+96,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+97,"Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+98,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+99,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+100,"D3","Excel","ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+101,"Excel","Python","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+102,"Excel","ggplot2","Power BI","R","Tableau","Flourish",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103,"ArcGIS","Illustrator","Mapbox","kepler.gl","QGIS","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+104,"D3","Angular","Excel","ggplot2","Highcharts","Illustrator","Leaflet","Mapbox","Plotly","R","Tableau","Vega","Pen & Paper",NA,NA,NA,NA,NA,NA,NA
+105,"D3","Excel","PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+106,"ArcGIS","Excel","ggplot2","Python","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+107,"ArcGIS","ggplot2","Plotly","Power BI","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+108,"Java","Python","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+109,"Python","Vue","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+110,"D3","Python","WebGL","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+111,"D3","ggplot2","Leaflet","QGIS","R","Tableau","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+112,"Excel","ggplot2","Leaflet","Plotly","Python","R","Tableau","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+113,"D3","ggplot2","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+114,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+115,"ggplot2","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+116,"Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117,"Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+118,"Excel","ggplot2","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+119,"D3","Excel","Plotly","Python","R","Vega","Matplotlib","Looker",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+120,"Excel","ggplot2","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+121,"D3","Excel","Highcharts","Illustrator","Leaflet","Mapbox","React","Tableau","Vue","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+122,"Illustrator","Python","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+123,"D3","Excel","Illustrator","Java","QGIS","Tableau","Web Components","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+124,"Illustrator","Java","Processing","WebGL","Pen & Paper","Canvas","P5/Processing","Unity3D",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+125,"D3","Excel","Illustrator","Plotly","Python","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+126,"Excel","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+127,"Excel","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+128,"Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+129,"D3","Excel","Gephi","React","Semiotic","Tableau","Web Components","WebGL","Pen & Paper","Other physical materials","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+130,"Power BI","Tableau","Alteryx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+131,"ArcGIS","Excel","ggplot2","Illustrator","Plotly","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+132,"ArcGIS","ggplot2","Plotly","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+133,"D3","Excel","ggplot2","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+134,"D3","Excel","Python","Tableau","WebGL","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+135,"D3","Gephi","Leaflet","Processing","Python","QGIS","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+136,"D3","ggplot2","Illustrator","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+137,"D3","ggplot2","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+138,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+139,"Excel","ggplot2","Plotly","Power BI","Python","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+140,"Excel","ggplot2","Plotly","Power BI","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+141,"Excel","ggplot2","Plotly","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+142,"Excel","ggplot2","Power BI","R","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+143,"Excel","Power BI","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+144,"Excel","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+145,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+146,"Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+147,"Qlik","ThoughtSpot",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+148,"D3","Excel","ggplot2","Illustrator","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+149,"Excel","Power BI","Python","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+150,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151,"Excel","Tableau","SAS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+152,"Excel","Mapbox","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+153,"D3","Excel","ggplot2","Power BI","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+154,"ArcGIS","QGIS","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+155,"Excel","Illustrator","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+156,"Excel","Power BI","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+157,"D3","Excel","ggplot2","Highcharts","Illustrator","Leaflet","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+158,"ArcGIS","D3","ggplot2","Mapbox","Plotly","Python","React","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+159,"D3","ggplot2","Mapbox","QGIS","R","React","Semiotic","Vega","WebGL","Pen & Paper","elm-visualization",NA,NA,NA,NA,NA,NA,NA,NA,NA
+160,"ArcGIS","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+161,"D3","ggplot2","R","Tableau","Chartio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+162,"Plotly","Power BI","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+163,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+164,"Excel","ggplot2","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+165,"ArcGIS","Excel","Gephi","Leaflet","Mapbox","Plotly","Python","QGIS","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+166,"Cytoscape","Excel","Gephi","Illustrator","Mapbox","kepler.gl","Python","QGIS","Tableau","Vega","WebGL","Pen & Paper","Canvas","Raw Graphs","Flourish","Infogram",NA,NA,NA,NA
+167,"D3","Excel","Python","QGIS","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+168,"D3","ggplot2","Illustrator","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+169,"D3","Excel","ggplot2","Leaflet","Plotly","Power BI","R","React","Web Components","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+170,"Cytoscape","D3","ggplot2","Python","R","React","Vega","Looker","Semiotic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+171,"D3","Mapbox","kepler.gl","Qlik","R","React","Semiotic","Web Components","WebGL","Pen & Paper","Other physical materials","Greensock","Canvas",NA,NA,NA,NA,NA,NA,NA
+172,"D3","Plotly","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+173,"Plotly","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+174,"Power BI","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+175,"D3","Excel","ggplot2","Illustrator","Leaflet","Python","R","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+176,"D3","Excel","ggplot2","Leaflet","Power BI","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+177,"D3","Excel","ggplot2","Python","Metabase",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+178,"D3","Excel","ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+179,"D3","Excel","Power BI","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+180,"D3","Gephi","Leaflet","kepler.gl","Python","Tableau","WebGL","Canvas","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+181,"D3","ggplot2","Leaflet","Plotly","Python","R","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+182,"D3","ggplot2","Plotly","Python","R","matplotlib","seaborn","grid","lattice",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+183,"D3","ggplot2","Plotly","Python","R","Tableau","Pen & Paper","Matplotlib","Holoviews",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+184,"D3","ggplot2","Plotly","Python","R","Vue","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+185,"D3","ggplot2","Python","R","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+186,"D3","Highcharts","Leaflet","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+187,"D3","Leaflet","Python","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+188,"D3","Plotly","Power BI","Python","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+189,"D3","Python","Tableau","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+190,"Excel","ggplot2","Gephi","Plotly","Power BI","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+191,"Excel","ggplot2","Leaflet","Python","QGIS","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+192,"Gephi","Python","Tableau","Matplotlib","Seaborn","Yellowbrick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+193,"ggplot2","Gephi","Plotly","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+194,"ggplot2","Gephi","R","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+195,"ggplot2","Highcharts","Leaflet","Plotly","Processing","R","Vega","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+196,"ggplot2","Highcharts","Leaflet","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+197,"ggplot2","Leaflet","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+198,"ggplot2","Plotly","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+199,"ggplot2","Plotly","Python","R","Matplotlib","altair (python)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+200,"ggplot2","Plotly","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+201,"ggplot2","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+202,"Plotly","Python","Vega","Matplotlib","Seaborn",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+203,"Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+204,"Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+205,"Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+206,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+207,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+208,"D3","Angular","Highcharts","Illustrator","Plotly","Python","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+209,"Excel","Power BI","Pen & Paper","Metabase",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+210,"ArcGIS","D3","Excel","Gephi","Illustrator","Mapbox","QGIS","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+211,"Excel","ggplot2","R","Tableau","RAW","Charticulator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+212,"D3","Excel","Illustrator","Python","React","Greensock","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+213,"D3","Excel","Illustrator","Mapbox","QGIS","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+214,"D3","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+215,"Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+216,"D3","Excel","Illustrator","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+217,"D3","Excel","Leaflet","Mapbox","QGIS","R","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+218,"D3","Excel","Illustrator","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+219,"D3","Excel","Tableau","Vega","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+220,"Plotly","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+221,"D3","Excel","Illustrator","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+222,"D3","Illustrator","QGIS","React","Pen & Paper","Canvas","P5/Processing","Nodebox",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+223,"D3","Highcharts","Illustrator","Mapbox","Processing","Python","WebGL","Canvas","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+224,"Cytoscape","D3","Angular","React","Pen & Paper","iPad",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+225,"D3","Excel","ggplot2","Highcharts","Illustrator","Processing","Python","R","Vue","WebGL","P5/Processing","pixi.js",NA,NA,NA,NA,NA,NA,NA,NA
+226,"D3","Mapbox","React","Pen & Paper","Arcadia Data","Turf.js",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+227,"D3","React","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+228,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+229,"ArcGIS","D3","Excel","Illustrator","Leaflet","Python","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+230,"Excel","ggplot2","Illustrator","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+231,"D3","Illustrator","React","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+232,"D3","Excel","Highcharts","Tableau","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+233,"ggplot2","Leaflet","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+234,"Mapbox","QGIS","Tableau","Pen & Paper","Alteryx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+235,"Power BI","Qlik","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+236,"Illustrator","Processing","Tableau","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+237,"D3","Illustrator","Leaflet","Mapbox","React","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+238,"D3","Gephi","Mapbox","Python","React","Tableau","Vega","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+239,"Excel","Power BI","Salesforce",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+240,"Excel","ggplot2","Mapbox","Python","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+241,"D3","Illustrator","QGIS","Flourish","amCharts","Raw",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+242,"Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+243,"Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+244,"D3","Excel","ggplot2","Python","R","Tableau","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+245,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+246,"Excel","Illustrator","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+247,"D3","Illustrator","Mapbox","Processing","Greensock",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+248,"D3","Excel","Processing","Python","Google Sheets",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+249,"D3","Excel","Python","QGIS","React","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+250,"Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+251,"ggplot2","Illustrator","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+252,"ArcGIS","D3","Excel","ggplot2","Illustrator","Power BI","Python","R","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+253,"D3","Illustrator","Mapbox","Python","QGIS","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+254,"Excel","Illustrator","Power BI","Pen & Paper","Igor Pro from Wavemetrics",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+255,"ArcGIS","Excel","Qlik",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+256,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+257,"Qlik","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+258,"Cytoscape","D3","ggplot2","Gephi","Illustrator","Leaflet","Mapbox","Python","R","React","Vue","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA,NA
+259,"Excel","Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+260,"Excel","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+261,"Excel","ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,"Excel","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+263,"ArcGIS","D3","Excel","Illustrator","Mapbox","Plotly","Processing","Python","R","React","WebGL","P5/Processing","Matplotlib",NA,NA,NA,NA,NA,NA,NA
+264,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+265,"Excel","ggplot2","Plotly","Processing","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+266,"ggplot2","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+267,"D3","Excel","ggplot2","Illustrator","Plotly","Python","React","Canvas","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+268,"D3","Python","Tableau","Web Components","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+269,"D3","ggplot2","Leaflet","R","Vue","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+270,"Excel","ggplot2","Illustrator","Mapbox","Plotly","R","Tableau","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+271,"Excel","Gephi","Power BI","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+272,"ggplot2","Java","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+273,"Excel","ggplot2","Illustrator","QGIS","R","Tableau","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+274,"D3","Mapbox","kepler.gl","QGIS","Tableau","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+275,"Excel","Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+276,"Excel","Python","Vue","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+277,"Excel","Power BI","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+278,"D3","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+279,"ggplot2","R","Tableau","SAS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+280,"ArcGIS","Excel","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+281,"Excel","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+282,"D3","Excel","ggplot2","Illustrator","Mapbox","Plotly","Power BI","Python","Qlik","R","React","Tableau","WebGL","Greensock","Canvas",NA,NA,NA,NA,NA
+283,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+284,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+285,"Excel","ggplot2","Highcharts","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+286,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+287,"D3","Angular","Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+288,"D3","Excel","Highcharts","R","Web Components","Pen & Paper","Canvas","SVG","Smalltalk",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+289,"D3","Angular","Excel","Illustrator","QGIS","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+290,"D3","ggplot2","Illustrator","kepler.gl","QGIS","R","React","WebGL","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+291,"D3","Python","QGIS","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+292,"D3","Angular","Highcharts","Leaflet","React","Web Components","Knowage",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+293,"D3","Angular",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+294,"D3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+295,"D3","Python","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+296,"D3","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+297,"ArcGIS","Leaflet","Mapbox","kepler.gl","Power BI","Python","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+298,"ArcGIS","Excel","Illustrator","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+299,"ArcGIS","Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+300,"ArcGIS","Excel","ggplot2","Leaflet","QGIS","R","Pen & Paper","Figma",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+301,"Excel","ggplot2","Leaflet","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+302,"ggplot2","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+303,"Python","Matplotlib","inkskape",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+304,"react-vis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+305,"Excel","Python","Matplotlib","libre office",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+306,"Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+307,"D3","Excel","ggplot2","Illustrator","Processing","R","Tableau","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+308,"Excel","ggplot2","Illustrator","QGIS","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+309,"D3","ggplot2","Illustrator","QGIS","R","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+310,"D3","Excel","ggplot2","Illustrator","Leaflet","Mapbox","QGIS","R","React","Vue","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA
+311,"Excel","ggplot2","R","RawGraphs.io",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+312,"Excel","Mapbox","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+313,"Excel","Power BI","PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,"D3","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+315,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+316,"Excel","Plotly","Python","QGIS","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+317,"Excel","ggplot2","Microstrategy","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+318,"Excel","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+319,"Excel","ggplot2","Highcharts","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+320,"Excel","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+321,"D3","Excel","Python","Tableau","Bokeh",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+322,"D3","ggplot2","Leaflet","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+323,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+324,"D3","Excel","Illustrator","Power BI","Tableau","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+325,"ArcGIS","Excel","Illustrator","Mapbox","QGIS","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+326,"ArcGIS","Excel","ggplot2","Plotly","Power BI","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+327,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+328,"Illustrator","Power BI","Python","Tableau","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+329,"ggplot2","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+330,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+331,"D3","Illustrator","QGIS","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+332,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+333,"Power BI","Python","Tableau","BO",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+334,"D3","Excel","Leaflet","React","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+335,"D3","Excel","Python","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+336,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+337,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+338,"D3","Excel","Plotly","Python","Vega","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+339,"Power BI","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+340,"Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+341,"Excel","Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+342,"D3","Excel","ggplot2","Mapbox","kepler.gl","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+343,"Excel","ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+344,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+345,"Excel","Tableau","Business Objects",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+346,"Excel","Illustrator","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+347,"D3","Angular","Python","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+348,"D3","ggplot2","Illustrator","Leaflet","Mapbox","Python","R","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+349,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+350,"ArcGIS","Excel","Plotly","Power BI","Python","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+351,"D3","Angular","Highcharts","Mapbox","Python","WebGL","SVG.js",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+352,"ggplot2","Power BI","R","Tableau","Pen & Paper","ggvis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+353,"ArcGIS","Excel","QGIS","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+354,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+355,"Gephi","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+356,"Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+357,"Cytoscape","D3","ggplot2","Gephi","Leaflet","Mapbox","Plotly","Python","QGIS","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA
+358,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+359,"ArcGIS","kepler.gl","Power BI","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+360,"Excel","ggplot2","Plotly","Python","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+361,"Excel","ggplot2","Plotly","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+362,"D3","ggplot2","Gephi","Mapbox","Plotly","Python","R","Tableau","WebGL","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA
+363,"ArcGIS","Excel","Microstrategy","Power BI","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364,"D3","Angular","Mapbox","React","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+365,"Excel","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+366,"Excel","Highcharts","Illustrator","Python","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+367,"Highcharts","Leaflet","Plotly","Power BI","Python","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+368,"Excel","Google Data Studio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+369,"D3","Excel","ggplot2","Illustrator","Mapbox","Plotly","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+370,"D3","Excel","Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+371,"ZingChart & ZingGrid",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+372,"ggplot2","Plotly","R","Inkscape",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+373,"Excel","Power BI","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+374,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+375,"Excel","Leaflet","Mapbox","Plotly","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+376,"Excel","Illustrator","R","Tableau","tabX",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+377,"ArcGIS","D3","Excel","ggplot2","Highcharts","Illustrator","Mapbox","Python","QGIS","R","Vue","WebGL","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA
+378,"Excel","Mapbox","Tableau","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+379,"Gephi","Illustrator","kepler.gl","Python","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+380,"D3","Excel","Leaflet","QGIS","Vue","Web Components","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+381,"Excel","Illustrator","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+382,"Excel","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+383,"Excel","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+384,"Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+385,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+386,"Excel","ggplot2","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+387,"D3","Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+388,"D3","Python","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+389,"D3","ggplot2","Gephi","Leaflet","Mapbox","Power BI","Python","R","React","Tableau","Vega","Vue","Web Components",NA,NA,NA,NA,NA,NA,NA
+390,"D3","ggplot2","Highcharts","Illustrator","Leaflet","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+391,"ggplot2","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+392,"ArcGIS","ggplot2","Illustrator","Leaflet","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+393,"Excel","ggplot2","Illustrator","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+394,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+395,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+396,"Illustrator","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+397,"Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+398,"Python","Matplotlib","Seaborn","aplpy","bokeh",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+399,"Python","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+400,"Python","Pen & Paper","Matplotlib","Mathematica",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+401,"D3","Excel","ggplot2","Microstrategy","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+402,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+403,"D3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+404,"Excel","ggplot2","Leaflet","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+405,"Python","Matplotlib","Mayavi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+406,"Cytoscape","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+407,"D3","Illustrator","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+408,"Excel","ggplot2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+409,"ggplot2","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+410,"Python","Pen & Paper","Matplotlib","VTK",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+411,"Python","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+412,"Excel","Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+413,"Excel","Illustrator","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+414,"D3","Julia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+415,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+416,"Power BI","Qlik",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+417,"Illustrator","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+418,"D3","Excel","React","Tableau","Vega","Web Components","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+419,"D3","Excel","Illustrator","Mapbox","QGIS","Tableau","Vega","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+420,"Excel","Plotly","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+421,"D3","Excel","Illustrator","Power BI","Qlik","Tableau","Pen & Paper","Sketch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+422,"Excel","Illustrator","Mapbox","kepler.gl","Tableau","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+423,"D3","Excel","ggplot2","Illustrator","Python","R","React","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+424,"D3","Excel","ggplot2","Gephi","Highcharts","Leaflet","Microstrategy","Plotly","Power BI","Python","QGIS","Qlik","R","Tableau",NA,NA,NA,NA,NA,NA
+425,"D3","Excel","Python","React","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+426,"D3","Gephi","Illustrator","kepler.gl","Processing","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+427,"D3","Power BI","R","React","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+428,"ggplot2","Plotly","Python","R","Vega","P5/Processing","Matplotlib","Altair","plotnine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+429,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+430,"Plotly","Python","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+431,"Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+432,"Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+433,"Stata / SAS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+434,"Python","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+435,"Excel","Plotly","Python","Vega","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+436,"Excel","Python","Tableau","Stata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+437,"D3","R","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+438,"Excel","ggplot2","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+439,"Excel","Python","Qlik",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+440,"ArcGIS","Excel","ggplot2","Highcharts","Illustrator","Plotly","Power BI","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+441,"Excel","ggplot2","Highcharts","Plotly","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+442,"ArcGIS","Excel","Illustrator","Mapbox","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+443,"Excel","Power BI","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+444,"Excel","ggplot2","Illustrator","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+445,"ggplot2","Illustrator","QGIS","R","Pen & Paper","Flourish",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+446,"D3","Excel","QGIS","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+447,"Excel","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+448,"Excel","ggplot2","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+449,"ArcGIS","Excel","Illustrator","Power BI","QGIS","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+450,"Excel","ggplot2","Highcharts","Leaflet","Plotly","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+451,"Excel","Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+452,"ArcGIS","D3","Excel","ggplot2","Gephi","Illustrator","kepler.gl","Power BI","Python","R","React","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA
+453,"D3","Excel","Python","Tableau","altair",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+454,"Mapbox","Python","QGIS","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+455,"Plotly","Python","Matplotlib","seaborn",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+456,"Python","Matplotlib","Unity","vmd","nglview",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+457,"D3","Leaflet","Mapbox","Python","QGIS","rivets.js",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+458,"Excel","ggplot2","Power BI","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+459,"ArcGIS","Cytoscape","Excel","Highcharts","Mapbox","kepler.gl","Plotly","Power BI","Python","React","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+460,"D3","Leaflet","Processing","QGIS","React","Web Components","WebGL","Canvas","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+461,"D3","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+462,"ggplot2","Illustrator","Python","P5/Processing","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+463,"ggplot2","Leaflet","kepler.gl","Plotly","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+464,"Python","WebGL","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+465,"D3","Excel","Leaflet","Python","Matlab",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+466,"Cytoscape","D3","ggplot2","Gephi","Illustrator","Python","R","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+467,"D3","ggplot2","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+468,"Cytoscape","D3","ggplot2","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+469,"Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+470,"D3","ggplot2","QGIS","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+471,"ggplot2","Java","Python","Matplotlib","Gnuplot",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+472,"Plotly","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+473,"Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+474,"Python","Matplotlib","Bokeh","Datashader","Holoviews",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+475,"Python","QGIS","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+476,"ArcGIS","Excel","ggplot2","Plotly","Python","R","Matplotlib","Tibco Spotfire",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+477,"Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+478,"D3","Mapbox","kepler.gl","Power BI","React","Tableau","Web Components","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+479,"D3","Leaflet","Python","QGIS","Cesium.js",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+480,"D3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+481,"Excel","R","Pen & Paper","Spotfire",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+482,"Excel","ggplot2","QGIS","R","Omnigraffle",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+483,"D3","Angular","Java","Mapbox","Qlik","R","Tableau","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+484,"D3","Excel","ggplot2","QGIS","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+485,"ArcGIS","Excel","Power BI","Python","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+486,"Excel","Python","React","Matplotlib","Recharts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+487,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+488,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+489,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+490,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+491,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+492,"ggplot2","Highcharts","Leaflet","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+493,"D3","Excel","ggplot2","Highcharts","Leaflet","Power BI","Python","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+494,"Excel","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+495,"D3","Excel","ggplot2","Plotly","Power BI","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+496,"D3","ggplot2","Gephi","Highcharts","Mapbox","kepler.gl","Plotly","Python","R","Tableau","WebGL","Pen & Paper","Canvas","Matplotlib",NA,NA,NA,NA,NA,NA
+497,"D3","Python","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+498,"Plotly","Python","Matplotlib","holoviews",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+499,"D3","ggplot2","Plotly","Python","R","Vega","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+500,"Mapbox","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+501,"Cytoscape","D3","Excel","Highcharts","Python","React","Semiotic","Tableau","WebGL","Pen & Paper","Greensock",NA,NA,NA,NA,NA,NA,NA,NA,NA
+502,"D3","ggplot2","Power BI","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+503,"Excel","Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+504,"Excel","Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+505,"Excel","Illustrator","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+506,"Excel","Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+507,"Excel","Microstrategy","Power BI","Tableau","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+508,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+509,"ArcGIS","Excel","Illustrator","Tableau","Ucinet/Netdraw",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+510,"Excel","ggplot2","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+511,"Excel","Power BI","Qlik",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+512,"Excel","Mapbox","Power BI","Qlik","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+513,"Excel","Power BI","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+514,"Excel","Illustrator","Tableau","Google Sheets","Data Illustrator","Adobe Xd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+515,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+516,"Excel","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+517,"D3","ggplot2","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+518,"Excel","ggplot2","Plotly","Python","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+519,"D3","Excel","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+520,"ArcGIS","Leaflet","Mapbox","Python","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+521,"D3","Angular","Excel","React","Vega","WebGL","Kibana",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+522,"D3","Mapbox","kepler.gl","React","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+523,"D3","Mapbox","React","Tableau","Vega","WebGL","React-vis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+524,"D3","Excel","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+525,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+526,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+527,"D3","ggplot2","Highcharts","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+528,"ArcGIS","D3","Excel","Plotly","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+529,"D3","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+530,"D3","Excel","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+531,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+532,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+533,"Excel","ggplot2","Python","R","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+534,"D3","Excel","Vue","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+535,"D3","ggplot2","Python","Qlik","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+536,"D3","React","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+537,"D3","React","WebGL","Pen & Paper","Canvas","KeyLines API",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+538,"Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+539,"ArcGIS","D3","Highcharts","Leaflet","Mapbox","kepler.gl","Python","QGIS","React","Semiotic","WebGL","Pen & Paper","Canvas","svg","html","css","javascript",NA,NA,NA
+540,"D3","Angular","ggplot2","Highcharts","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+541,"D3","Angular","Highcharts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+542,"D3","Angular","Tableau","WebGL","Google Earth Engine","Google Sheets","deck.gl",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+543,"D3","Excel","Gephi","Plotly","Python","React","Semiotic","Tableau","Vega","WebGL","Pen & Paper","Canvas","P5/Processing","Observable","Jupyter",NA,NA,NA,NA,NA
+544,"D3","Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+545,"D3","Highcharts","Leaflet","Mapbox","Python","React","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+546,"D3","Leaflet","Python","Vega","Vue","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+547,"D3","R","React","Tableau","Web Components","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+548,"D3","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+549,"D3","React","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+550,"D3","React","WebGL","Greensock","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+551,"Excel","Plotly","Python","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+552,"Python","Matplotlib","LucidChart",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+553,"Plotly","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+554,"D3","Excel","ggplot2","Highcharts","Java","Plotly","Python","R","Vue","Google Charts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+555,"D3","Highcharts","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+556,"Excel","ggplot2","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+557,"Highcharts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+558,"D3","Web Components","In house framework",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+559,"SAP BO",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+560,"ggplot2","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+561,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+562,"Cytoscape","D3","React","Semiotic","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+563,"D3","Angular","Mapbox","kepler.gl","Microstrategy","React","Semiotic","Tableau","Web Components","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+564,"D3","Angular","Python","Vega","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+565,"D3","Illustrator","Mapbox","Processing","QGIS","React","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+566,"Excel","ggplot2","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+567,"ggplot2","Highcharts","Plotly","R","SAS","Stata","SPSS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+568,"ArcGIS","ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+569,"ArcGIS","Illustrator","Python","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+570,"D3","Angular","ggplot2","Illustrator","Leaflet","Mapbox","Python","R","Tableau","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+571,"D3","Excel","ggplot2","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+572,"D3","ggplot2","Python","QGIS","R","React","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+573,"Excel","ggplot2","Illustrator","Plotly","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+574,"Excel","ggplot2","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+575,"ggplot2","Plotly","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+576,"Excel","Illustrator","Infogram",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+577,"ArcGIS","Excel","ggplot2","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+578,"ggplot2","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+579,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+580,"Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+581,"Excel","ggplot2","Plotly","Python","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+582,"Excel","Java","Python","In house software tools",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+583,"Excel","ggplot2","Plotly","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+584,"Excel","Gephi","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+585,"D3","Excel","ggplot2","Highcharts","Leaflet","Plotly","Python","QGIS","R","Affinity Designer",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+586,"Excel","Power BI","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+587,"Excel","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+588,"D3","Angular","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+589,"ArcGIS","Cytoscape","D3","Angular","Excel","Plotly","Python","R","Web Components","WebGL","Canvas","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA
+590,"Excel","ggplot2","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+591,"Excel","Python","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+592,"Excel","ggplot2","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+593,"D3","Excel","Python","React","Semiotic","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+594,"D3","Excel","ggplot2","Plotly","Python","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+595,"D3","Illustrator","Mapbox","React","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+596,"D3","Illustrator","Leaflet","Mapbox","Python","QGIS","React","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+597,"D3","ggplot2","Python","R","Vega","WebGL","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+598,"D3","Excel","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+599,"D3","Excel","Illustrator","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+600,"D3","ggplot2","Illustrator","QGIS","R","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+601,"D3","Excel","ggplot2","Highcharts","Illustrator","Plotly","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+602,"D3","Ember.js",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+603,"hand drawn with adobe Director",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+604,"D3","Excel","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+605,"ArcGIS","D3","Highcharts","Processing","Python","R","React","Vue","WebGL","Greensock","Canvas","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA
+606,"ArcGIS","D3","Mapbox","kepler.gl","Python","React","Semiotic","CARTO",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+607,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+608,"ArcGIS","D3","Excel","ggplot2","Highcharts","Illustrator","Leaflet","Mapbox","QGIS","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA
+609,"ArcGIS","D3","Excel","Highcharts","Plotly","Power BI","Python","Tableau","Web Components","Matplotlib","Spotfire",NA,NA,NA,NA,NA,NA,NA,NA,NA
+610,"ArcGIS","Excel","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+611,"ArcGIS","ggplot2","Power BI","R","Tableau","SAS","Cognos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+612,"ArcGIS","ggplot2","Power BI","Tableau","Pen & Paper","Sas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+613,"D3","Excel","Gephi","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+614,"D3","Excel","ggplot2","Highcharts","Illustrator","Leaflet","Mapbox","Plotly","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+615,"D3","Excel","Illustrator","Python","React","Tableau","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+616,"D3","Excel","Illustrator","QGIS","Web Components","WebGL","Pen & Paper","Other physical materials","Canvas","Blender",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+617,"D3","ggplot2","Illustrator","Leaflet","Plotly","QGIS","R","React","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+618,"D3","ggplot2","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+619,"D3","Java","Leaflet","Mapbox","Plotly","Python","QGIS","R","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+620,"D3","Leaflet","Mapbox","kepler.gl","QGIS","R","WebGL","Datawrapper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+621,"D3","Power BI","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+622,"D3","React","Web Components","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+623,"D3","React","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+624,"decksh",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+625,"Excel","ggplot2","Leaflet","Power BI","Python","R","Tableau","Web Components","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+626,"Excel","ggplot2","Plotly","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+627,"Excel","ggplot2","Plotly","Python","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+628,"Excel","ggplot2","Plotly","Qlik","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+629,"Excel","ggplot2","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+630,"Excel","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+631,"Excel","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+632,"Excel","Illustrator","Qlik","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+633,"Excel","Mapbox","QGIS","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+634,"Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+635,"Excel","Power BI","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+636,"Excel","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+637,"Excel","R","Tableau","Pen & Paper","Alteryx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+638,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+639,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+640,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+641,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+642,"ggplot2","Mapbox","Plotly","Python","R","React","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+643,"ggplot2","Microstrategy","Plotly","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+644,"ggplot2","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+645,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+646,"Illustrator","Python","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+647,"Mapbox","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+648,"Mapbox","Power BI","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+649,"Mapbox","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+650,"Pen & Paper","Other physical materials","Think-cell",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+651,"Power BI","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+652,"Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+653,"Python","Matplotlib","Seaborn",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+654,"Python","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+655,"Python","QGIS","pyviz","bokeh","hvplot","holoview","geoviews",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+656,"SAP BO",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+657,"D3","Excel","Leaflet","Plotly","R","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+658,"D3","Mapbox","React","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+659,"D3","Mapbox","Python","React","Tableau","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+660,"Excel","ggplot2","Illustrator","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+661,"Power BI","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+662,"D3","Excel","ggplot2","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+663,"Excel","Illustrator","Processing","Semiotic","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+664,"D3","Angular","Gephi","Highcharts","Leaflet","Plotly","Python","Vue","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+665,"Excel","Java","Python","QGIS","Pen & Paper","Other physical materials","Canvas","Datacubes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+666,"ggplot2","Python","R","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+667,"ggplot2","Highcharts","Plotly","R","Tableau","EPIC EHR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+668,"D3","Excel","Illustrator","Plotly","Python","QGIS","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+669,"D3","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+670,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+671,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+672,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+673,"Excel","Power BI","Tableau","SAP WebI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+674,"Excel","QGIS","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+675,"Excel","ggplot2","Power BI","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+676,"D3","Excel","Gephi","Illustrator","Leaflet","Mapbox","QGIS","Vue","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+677,"ggplot2","Gephi","Illustrator","Plotly","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+678,"Excel","Python","Tableau","Pen & Paper","Alteryx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+679,"Qlik",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+680,"D3","Excel","Semiotic","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+681,"ArcGIS","Excel","Power BI","Python","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+682,"D3","Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+683,"ArcGIS","Angular","Leaflet",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+684,"D3","Excel","ggplot2","Highcharts","Illustrator","Leaflet","R","Vue","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+685,"D3","Leaflet","Mapbox","Python","React","Vega","Pen & Paper","OpenLayers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+686,"Excel","ggplot2","Processing","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+687,"ArcGIS","D3","Highcharts","Plotly","Python","QGIS","Tableau","Vega","Pen & Paper","Other physical materials","Matplotlib","Google Data Studio",NA,NA,NA,NA,NA,NA,NA,NA
+688,"Excel","Illustrator","Mapbox","Pen & Paper","Datawrapper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+689,"D3","Excel","ggplot2","Illustrator","Leaflet","Mapbox","Python","QGIS","R","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+690,"D3","ggplot2","Plotly","R","FlexDashboard",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+691,"Excel","ggplot2","Highcharts","Leaflet","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+692,"Excel","ggplot2","Power BI","Python","Tableau","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+693,"Excel","ggplot2","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+694,"Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+695,"Excel","Power BI","Python","QGIS","R","Tableau","Pen & Paper","Google Data Studio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+696,"Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+697,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+698,"Plotly","Python","Pen & Paper","Matplotlib","Tikz","Coreldraw","Inkscape",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+699,"D3","ggplot2","Plotly","Python","R","Tableau","Vue","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+700,"D3","Python","Vue","Web Components","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+701,"Excel","Illustrator","animate cc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+702,"Excel","ggplot2","R","Tableau","Pen & Paper","PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+703,"Leaflet","kepler.gl","QGIS","Mathematica",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+704,"D3","Excel","ggplot2","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+705,"D3","Excel","Plotly","Python","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+706,"Excel","ggplot2","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+707,"Excel","ggplot2","Power BI","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+708,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+709,"Mapbox","Microstrategy","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+710,"D3","ggplot2","Gephi","Power BI","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+711,"D3","Excel","ggplot2","Gephi","Illustrator","Leaflet","Processing","QGIS","R","Tableau","Pen & Paper","Canvas","P5/Processing",NA,NA,NA,NA,NA,NA,NA
+712,"D3","Angular","ggplot2","Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+713,"Mapbox","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+714,"D3","Mapbox","Python","QGIS","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+715,"D3","Excel","Highcharts","Java","QGIS","Fluorish","Google Map",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+716,"Excel","ggplot2","Plotly","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+717,"D3","Angular","Excel","ggplot2","Illustrator","Leaflet","Mapbox","Plotly","QGIS","R","React","Web Components","WebGL",NA,NA,NA,NA,NA,NA,NA
+718,"D3","ggplot2","Plotly","Power BI","Processing","Python","R","React","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+719,"Excel","ggplot2","Illustrator","Power BI","Python","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+720,"Excel","ggplot2","Java","Leaflet","Mapbox","kepler.gl","Plotly","QGIS","R","Pen & Paper","Google Data Studio","Facebook Analytics","Gamesparks",NA,NA,NA,NA,NA,NA,NA
+721,"Excel","Illustrator","Mapbox","Power BI","Python","Tableau","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+722,"ggplot2","Illustrator","Leaflet","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+723,"D3","Excel","Gephi","Illustrator","Mapbox","QGIS","Tableau","Web Components","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+724,"D3","Excel","ggplot2","Illustrator","Leaflet","Mapbox","QGIS","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+725,"Excel","ggplot2","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+726,"Excel","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+727,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+728,"Excel","ggplot2","Illustrator","Mapbox","Power BI","QGIS","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+729,"D3","Excel","ggplot2","Gephi","Illustrator","Leaflet","QGIS","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+730,"Illustrator","Mapbox","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+731,"D3","Illustrator","Tableau","Vega","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+732,"D3","Angular","Mapbox","kepler.gl","Plotly","React","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+733,"D3","Excel","ggplot2","Plotly","Python","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+734,"D3","ggplot2","Gephi","Illustrator","Leaflet","Mapbox","kepler.gl","Plotly","Processing","Python","R","Tableau","WebGL","Canvas","P5/Processing","Unity3D",NA,NA,NA,NA
+735,"D3","Excel","Python","QGIS","R","Vue","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+736,"D3","Gephi","Mapbox","Python","QGIS","React","Tableau","Pen & Paper","Other physical materials","Greensock","Canvas","Three.js",NA,NA,NA,NA,NA,NA,NA,NA
+737,"D3","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+738,"ggplot2","Illustrator","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+739,"D3","Excel","ggplot2","Gephi","Highcharts","Illustrator","Leaflet","Mapbox","Plotly","Processing","QGIS","Qlik","R","Tableau","Vega","Web Components","Pen & Paper","P5/Processing",NA,NA
+740,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+741,"D3","Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+742,"ArcGIS","D3","Angular","Excel","Processing","QGIS","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+743,"Excel","Illustrator","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+744,"Illustrator","Pen & Paper","Infogram",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+745,"D3","React","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+746,"D3","Angular","Leaflet","Mapbox","Plotly","Power BI","Python","React","Tableau","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+747,"Excel","Illustrator","Mapbox","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+748,"D3","Python","R","React","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+749,"ArcGIS","Excel","ggplot2","Illustrator","Leaflet","Mapbox","Plotly","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+750,"ArcGIS","D3","Excel","Highcharts","Illustrator","Leaflet","Mapbox","Power BI","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+751,"D3","Excel","ggplot2","Leaflet","Plotly","Python","Canvas","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+752,"React","Pen & Paper","Vector tools","Illustrator","Adobe XD",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+753,"D3","Mapbox","React","WebGL","deck.gl",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+754,"ArcGIS","Excel","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+755,"Illustrator","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+756,"D3","Excel","ggplot2","Plotly","Power BI","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+757,"D3","Excel","Leaflet","Mapbox","kepler.gl","Power BI","Python","QGIS","Tableau","Vue","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA
+758,"ArcGIS","Angular","Excel","Illustrator","Java","Leaflet","Mapbox","Power BI","Python","QGIS","R","Tableau","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA
+759,"D3","Mapbox","kepler.gl","Processing","React","Vega","WebGL","Pen & Paper","Canvas","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+760,"D3","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+761,"ArcGIS","Gephi","Illustrator","Mapbox","QGIS","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+762,"ArcGIS","Illustrator","Mapbox","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+763,"D3","Excel","Illustrator","Mapbox","Python","QGIS","R","Tableau","Vega","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA
+764,"Excel","Illustrator","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+765,"Excel","Illustrator","Tableau","InDesign","Datawrapper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+766,"ggplot2","Leaflet","Mapbox","Plotly","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+767,"Excel","ggplot2","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+768,"D3","Leaflet","Mapbox","Python","QGIS","R","React","Vue","Pen & Paper","Numbers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+769,"ggplot2","Illustrator","QGIS","R","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+770,"ArcGIS","Excel","Highcharts","Leaflet","Mapbox","Power BI","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+771,"Mapbox","kepler.gl","Python","QGIS","Apache superset",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+772,"Power BI","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+773,"Excel","ggplot2","Power BI","R","WebGL","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+774,"Power BI","Qlik","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+775,"D3","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+776,"D3","Excel","Tableau","Google Data Studio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+777,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+778,"Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+779,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+780,"D3","Excel","ggplot2","Python","R","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+781,"D3","ggplot2","Leaflet","Mapbox","R","Tableau","Vue","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+782,"D3","Python","matplotlib","libsvgwrite",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+783,"Excel","Python","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+784,"ggplot2","Highcharts","Leaflet","Mapbox","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+785,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+786,"D3","ggplot2","Illustrator","Leaflet","Mapbox","Power BI","Python","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+787,"R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+788,"D3","Excel","Highcharts","Illustrator","Microstrategy","Power BI","Processing","Qlik","R","Tableau","Pen & Paper","Other physical materials","OmniGraffle",NA,NA,NA,NA,NA,NA,NA
+789,"Excel","Tableau","PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+790,"D3","Angular","Excel","Leaflet","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+791,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+792,"Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+793,"Tableau","Alteryx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+794,"D3","Java","Processing","Python","Tableau","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+795,"ggplot2","Java","Plotly","Python","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+796,"ArcGIS","ggplot2","Illustrator","QGIS","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+797,"Microstrategy","Power BI","Qlik","Tableau","SAP Lumira","WebI","Tibco Spotfire",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+798,"Excel","ggplot2","Highcharts","Leaflet","Mapbox","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+799,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+800,"D3","Angular","ggplot2","Illustrator","Leaflet","Mapbox","kepler.gl","Plotly","Python","R","React","Tableau","Vega","Vue","Web Components","WebGL","Pen & Paper","Greensock","Canvas","Matplotlib"
+801,"Python","Tableau","Web Components","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+802,"ArcGIS","Excel","ggplot2","R","Stata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+803,"ArcGIS","Python","QGIS","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+804,"Excel","Gephi","Illustrator","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+805,"ggplot2","Leaflet","QGIS","R","Shiny (R)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+806,"Excel","Illustrator","React","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+807,"D3","ggplot2","Gephi","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+808,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+809,"ArcGIS","Excel","Mapbox","Microstrategy","Power BI","Qlik","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+810,"Excel","ggplot2","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+811,"D3","Excel","Illustrator","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+812,"D3","Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+813,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+814,"ggplot2","R","Affinity Designer",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+815,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+816,"D3","Leaflet","Python","React","WebGL","Pen & Paper","Canvas","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+817,"D3","ggplot2","Leaflet","Python","React","WebGL","Pen & Paper","Other physical materials","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+818,"ArcGIS","Excel","Highcharts","Illustrator","Leaflet","Mapbox","kepler.gl","Python","QGIS","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+819,"D3","Excel","Gephi","Vue","Javascript",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+820,"Excel","ggplot2","R","Tibco Spotfire",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+821,"D3","Highcharts","Illustrator","Mapbox","Plotly",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+822,"Excel","Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+823,"D3","ggplot2","Power BI","Python","R","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+824,"D3","Java","Leaflet","Mapbox","Python","QGIS","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+825,"D3","Highcharts","React","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+826,"Excel","Power BI","Python","QGIS","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+827,"Excel","ggplot2","Mapbox","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+828,"Highcharts","Plotly","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+829,"D3","React","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+830,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+831,"ggplot2","Illustrator","Leaflet","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+832,"D3","Illustrator","Mapbox","kepler.gl","Processing","Python","WebGL","Other physical materials","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+833,"D3","Angular","Illustrator","Power BI","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+834,"Excel","ggplot2","Power BI","Python","R","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+835,"Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+836,"D3","Illustrator","Mapbox","Processing","QGIS","R","Web Components","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+837,"ArcGIS","Python","QGIS","R","Vega","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+838,"D3","Angular","Excel","Java","Python","React","Web Components","PHP","mySQL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+839,"D3","Angular","Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+840,"D3","Excel","ggplot2","Mapbox","Plotly","Power BI","Python","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+841,"D3","Gephi","Python","R","Spotfire",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+842,"D3","Microstrategy","Power BI","Python","Qlik",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+843,"Excel","ggplot2","Leaflet","Mapbox","Power BI","Python","QGIS","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+844,"Excel","ggplot2","Python","QGIS","Tableau","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+845,"Excel","Processing","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+846,"Excel","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+847,"ggplot2","Illustrator","Plotly","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+848,"ggplot2","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+849,"ggplot2","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+850,"Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+851,"Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+852,"Plotly","Python","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+853,"Excel","ggplot2","Illustrator","Java","Plotly","Power BI","Python","R","Tableau","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+854,"D3","ggplot2","Leaflet","Plotly","Python","R","Vega","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+855,"D3","Excel","Power BI","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+856,"D3","Excel","Illustrator","Leaflet","Mapbox","Power BI","Pen & Paper","Whiteboard",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+857,"D3","Illustrator","Python","Pen & Paper","Sketch","Google Sheets",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+858,"D3","ggplot2","Illustrator","Plotly","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+859,"D3","Excel","Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+860,"Excel","ggplot2","Gephi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+861,"D3","React","Vega","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+862,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+863,"Excel","Mapbox","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+864,"D3","ggplot2","Plotly","R","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+865,"Excel","Highcharts","Data Studio","QuickSight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+866,"Excel","ggplot2","Illustrator","Leaflet","Plotly","QGIS","R","Tableau","Microsoft Office PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+867,"Excel","Illustrator","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+868,"D3","ggplot2","Highcharts","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+869,"D3","Python","QGIS","Tableau","Canvas","Spotfire",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+870,"Excel","ggplot2","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+871,"ArcGIS","Excel","ggplot2","Gephi","Power BI","Python","QGIS","Qlik","R","Vue","Other physical materials","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA
+872,"ggplot2","Leaflet","Plotly","Power BI","QGIS","R","Tableau","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+873,"Excel","ggplot2","Python","seaboard & matplotlib (python)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+874,"D3","Excel","ggplot2","Plotly","R","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+875,"D3","Excel","React","Vega","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+876,"D3","Mapbox","Python","QGIS","React","Tableau","Greensock","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+877,"D3","Angular","Mapbox","kepler.gl","React","Tableau","Vue","Web Components","WebGL","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+878,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+879,"D3","Excel","ggplot2","Illustrator","Plotly","Power BI","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+880,"D3","Excel","kepler.gl","Python","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+881,"Excel","Amcharts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+882,"Illustrator","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+883,"ArcGIS","Excel","ggplot2","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+884,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+885,"D3","Angular","ggplot2","Highcharts","R","React","Vue","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+886,"D3","Excel","Java","Mapbox","Processing","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+887,"Excel","Python","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+888,"Cytoscape","D3","Angular","Excel","Gephi","Java","Leaflet","Mapbox","Processing","Python","R","WebGL","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA
+889,"ArcGIS","D3","ggplot2","Highcharts","Mapbox","Plotly","Python","Qlik","R","React","Vue","Other physical materials","Matplotlib","Web Brain",NA,NA,NA,NA,NA,NA
+890,"D3","Illustrator","Leaflet","Python","QGIS","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+891,"Excel","Mapbox","Power BI","Python","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+892,"D3","Angular","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+893,"D3","Angular","Python","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+894,"D3","Mapbox","React","Tableau","WebGL","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+895,"Excel","ggplot2","Gephi","Illustrator","Plotly","R","Tableau","Vega","Pen & Paper","PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+896,"ArcGIS","Excel","Leaflet","Mapbox","kepler.gl","Python","QGIS","Tableau","Pen & Paper","Voyant","Carto","Processing",NA,NA,NA,NA,NA,NA,NA,NA
+897,"Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+898,"Excel","Illustrator","R","Pen & Paper","Other physical materials","google sheets",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+899,"Excel","Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+900,"Excel","ggplot2","Python","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+901,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+903,"D3","Mapbox","QGIS","React","Vue","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+904,"Excel","Illustrator","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+905,"D3","ggplot2","Plotly","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+906,"Excel","Tableau","Powerpoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+907,"Illustrator","PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+908,"Excel","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+909,"Excel","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+910,"Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+911,"Excel","Illustrator","Processing","Tableau","Pen & Paper","Other physical materials","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+912,"Excel","Illustrator","Mapbox","Tableau","PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+913,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+914,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+915,"ArcGIS","Excel","ggplot2","Mapbox","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+916,"D3","Angular","Excel","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+917,"R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+918,"ArcGIS","Excel","Illustrator","Plotly","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+919,"Excel","Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+920,"D3","Excel","Illustrator","Python","QGIS","R","React","Web Components","WebGL","Pen & Paper","Canvas","Google Sheets",NA,NA,NA,NA,NA,NA,NA,NA
+921,"Excel","ggplot2","Gephi","Illustrator","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+922,"Excel","ggplot2","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+923,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+924,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+925,"ArcGIS","Excel","Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+926,"ArcGIS","D3","Excel","ggplot2","Illustrator","Leaflet","Python","QGIS","R","React","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA
+927,"Excel","Power BI","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+928,"Excel","ggplot2","Plotly","R","SPSS","SAS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+929,"Excel","spss",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+930,"Excel","Highcharts","Illustrator","Mapbox","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+931,"Excel","ggplot2","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+932,"D3","Excel","Gephi","Mapbox","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+933,"Illustrator","Python","Tableau","Pen & Paper","Sisense",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+934,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+935,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+936,"Excel","Power BI","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+937,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+938,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+939,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+940,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+941,"Power BI","Looker",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+942,"ArcGIS","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+943,"Excel","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+944,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+945,"Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+946,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+947,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+948,"Excel","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+949,"Excel","ggplot2","Leaflet","Plotly","Power BI","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+950,"Excel","Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+951,"D3","Excel","Illustrator","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+952,"Excel","Power BI","QGIS","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+953,"Cytoscape","Excel","Illustrator","Java","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+954,"D3","Angular","ggplot2","Illustrator","Power BI","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+955,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+956,"ArcGIS","Excel","Illustrator","Tableau","Web Components","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+957,"D3","Python","React","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+958,"ArcGIS","ggplot2","Illustrator","R","Pen & Paper","Keynote",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+959,"Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+960,"Excel","Highcharts","Illustrator","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+961,"ArcGIS","Excel","Power BI","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+962,"D3","Angular","Processing","Python","R","React","Web Components","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+963,"Excel","Illustrator","Tableau","Flourish",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+964,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+965,"ArcGIS","D3","ggplot2","Leaflet","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+966,"ArcGIS","Excel","Tableau","BusinessObjects",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+967,"Cytoscape","ggplot2","Gephi","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+968,"D3","Excel","Tableau","Pen & Paper","Other physical materials","goodData",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+969,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+970,"Excel","ggplot2","Gephi","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+971,"Excel","Mapbox","Power BI","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+972,"Excel","Power BI","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+973,"Excel","Tableau","Pen & Paper","Powerpoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+974,"ggplot2","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+975,"ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+976,"Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+977,"ArcGIS","Excel","ggplot2","Highcharts","Leaflet","Plotly","Power BI","Python","R","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA
+978,"Power BI","Python","R","Tableau","TIBCO Spotfire",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+979,"D3","Excel","ggplot2","Highcharts","QGIS","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+980,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+981,"ggplot2","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+982,"Excel","Keynote","Canva","Piktochart",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+983,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+984,"Periscope Data",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+985,"ArcGIS","Excel","ggplot2","Illustrator","Mapbox","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+986,"Excel","ggplot2","Highcharts","Python","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+987,"D3","Excel","ggplot2","Illustrator","Mapbox","QGIS","R","Vega","Web Components","WebGL","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+988,"D3","ggplot2","Illustrator","Leaflet","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+989,"Excel","ggplot2","R","Tableau","Flourish",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+990,"Excel","Python","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+991,"Excel","Illustrator","Mapbox","Tableau","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+992,"ArcGIS","Excel","Mapbox","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+993,"D3","ggplot2","Plotly","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+994,"D3","ggplot2","Python","Tableau","Google Data Studio","DOMO",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+995,"ArcGIS","ggplot2","kepler.gl","Plotly","Power BI","Python","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+996,"D3","Excel","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+997,"D3","ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+998,"D3","ggplot2","R","Tableau","Vue","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+999,"D3","Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1000,"D3","Plotly","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1001,"Excel","Gephi","Mapbox","Python","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1002,"ggplot2","Illustrator","Plotly","Power BI","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1003,"ggplot2","Power BI","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1004,"Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1005,"ArcGIS","Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1006,"Excel","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1007,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1008,"D3","Excel","ggplot2","Highcharts","Illustrator","Mapbox","Plotly","Python","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1009,"Excel","Power BI","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1010,"Excel","Illustrator","Power BI","R","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1011,"D3","Excel","ggplot2","Gephi","Illustrator","QGIS","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1012,"D3","ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1013,"Excel","ggplot2","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1014,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1015,"D3","Excel","Illustrator","Leaflet","Mapbox",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1016,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1017,"D3","ggplot2","Plotly","Processing","Python","React","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1018,"ArcGIS","Excel","Gephi","Power BI","R","Tableau","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1019,"ArcGIS","D3","Excel","ggplot2","Illustrator","Mapbox","QGIS","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1020,"ArcGIS","Excel","Illustrator","Tableau","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1021,"D3","Excel","Illustrator","Leaflet","Python","QGIS","R","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1022,"D3","Mapbox","Python","React","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1023,"D3","React","Semiotic","WebGL","Canvas","SVG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1024,"D3","Leaflet","Python","R","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1025,"D3","Excel","ggplot2","Illustrator","Leaflet","Mapbox","Python","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1026,"Excel","Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1027,"Excel","Highcharts","Tableau","Datawrapper","Infogram","Carto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1028,"Excel","Illustrator","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1029,"Excel","Illustrator","Mapbox","QGIS","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1030,"D3","Angular","Illustrator","Mapbox","Processing","Tableau","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1031,"D3","Excel","Illustrator","Python","React","Web Components","WebGL","Canvas","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1032,"D3","Highcharts","Illustrator","Leaflet","Mapbox","QGIS","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1033,"D3","Mapbox","Vue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1034,"D3","Excel","Leaflet","Mapbox","Python","R","Tableau","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1035,"D3","Leaflet","Mapbox","React","Semiotic","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1036,"Excel","ggplot2","Highcharts","Illustrator","R","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1037,"Excel","ggplot2","Plotly","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1038,"D3","Excel","ggplot2","Plotly","Power BI","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1039,"Excel","Tableau","SPSS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1040,"Excel","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1041,"Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1042,"Excel","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1043,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1044,"Illustrator","Pen & Paper","Indesign",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1045,"Excel","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1046,"Excel","Mapbox","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1047,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1048,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1049,"Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1050,"Excel","R","Tableau","Pen & Paper","SPSS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1051,"Excel","Qualtrics",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1052,"D3","Angular","Illustrator","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1053,"Excel","ggplot2","Illustrator","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1054,"Excel","Power BI","Qlik","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1055,"D3","Excel","Gephi","Illustrator","Mapbox","React","WebGL","Pen & Paper","Greensock","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1056,"ArcGIS","D3","Excel","Illustrator","Python","R","React","Tableau","WebGL","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+1057,"ArcGIS","Excel","ggplot2","Illustrator","Python","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1058,"ArcGIS","Excel","Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1059,"ArcGIS","Excel","Illustrator","Python","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1060,"ArcGIS","Excel","Illustrator","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1061,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1062,"ArcGIS","Excel","ggplot2","Illustrator","Leaflet","Mapbox","Python","QGIS","R","Tableau","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA
+1063,"Excel","ggplot2","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1064,"D3","Excel","ggplot2","Illustrator","Python","QGIS","R","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1065,"Excel","ggplot2","Illustrator","Python","R","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1066,"Excel","ggplot2","Illustrator","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1067,"ggplot2","Illustrator","R","Flourish","RawGraphs",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1068,"Excel","Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1069,"Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1070,"Excel","Illustrator","QGIS","Web Components","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1071,"Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1072,"Excel","Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1073,"D3","Excel","ggplot2","Illustrator","Java","Power BI","R","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1074,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1075,"Excel","Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1076,"Excel","Cognos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1077,"ArcGIS","D3","Excel","Illustrator","Java","Leaflet","Mapbox","Plotly","Power BI","Python","Tableau","Vega","Pen & Paper","Other physical materials","Matplotlib",NA,NA,NA,NA,NA
+1078,"Excel","Illustrator","Microstrategy","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1079,"Tableau","Vega","Pen & Paper","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1080,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1081,"Tableau","Data Studio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1082,"Excel","Mapbox","Tableau","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1083,"Excel","Power BI","Qlik",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1084,"Excel","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1085,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1086,"Excel","Illustrator","Plotly","Power BI","R","Web Components","Canvas","Flourish",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1087,"D3","Excel","ggplot2","Illustrator","Mapbox","QGIS","R","Web Components","Pen & Paper","Vanilla Javascript",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1088,"Excel","ggplot2","Plotly","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1089,"ArcGIS","Excel","ggplot2","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1090,"R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1091,"Cytoscape","D3","Gephi","Highcharts","Leaflet","Mapbox","Plotly","Python","Other physical materials","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1092,"D3","Excel","Highcharts","Leaflet","Mapbox","Plotly","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1093,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1094,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1095,"D3","Excel","Plotly","Python","Tableau","Web Components","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1096,"ArcGIS","Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1097,"Power BI","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1098,"Excel","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1099,"Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1100,"Illustrator","Pen & Paper","Knowage",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1101,"ggplot2","Plotly","Python","R","Canvas","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1102,"D3","Excel","ggplot2","Leaflet","Plotly","Qlik","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1103,"Tableau","Pen & Paper","lucidpress",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1104,"D3","Excel","Highcharts","Illustrator","Leaflet","Mapbox","Python","QGIS","Tableau","WebGL","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA
+1105,"Excel","ggplot2","Leaflet","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1106,"ArcGIS","Excel","QGIS","SAS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1107,"Excel","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1108,"Excel","ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1109,"Excel","Illustrator","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1110,"Excel","Illustrator","Unreal Engine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1111,"Plotly","Python","QGIS","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1112,"Cytoscape","Excel","ggplot2","Plotly","Python","R","Inkscape",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1113,"Plotly","Python","MATLAB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1114,"Excel","ggplot2","R","Pen & Paper","SAS Visual Analytics",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1115,"Excel","ggplot2","Illustrator","Leaflet","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1116,"ggplot2","Illustrator","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1117,"Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1118,"D3","ggplot2","Highcharts","Leaflet","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1119,"Excel","ggplot2","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1120,"ArcGIS","Excel","ggplot2","Mapbox","Python","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1121,"Excel","Tableau","Pen & Paper","SAS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1122,"Excel","ggplot2","Leaflet","Plotly","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1123,"Excel","ggplot2","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1124,"ggplot2","Plotly","Python","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1125,"D3","React","chartjs","Sketch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1126,"D3","Highcharts","Python","React","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1127,"Excel","Python","Tableau","Pen & Paper","Google Data Studio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1128,"ArcGIS","D3","Illustrator","Java","Leaflet","Plotly","Python","Tableau","WebGL","Pen & Paper","P5/Processing","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA
+1129,"Cytoscape","D3","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130,"ArcGIS","Excel","ggplot2","Illustrator","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1131,"Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1132,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1133,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1134,"Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1135,"Excel","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1136,"ArcGIS","Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1137,"Chartio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1138,"Excel","ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1139,"Excel","Ibm cognos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1140,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1141,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1142,"D3","Excel","Illustrator","Plotly","Python","Tableau","Pen & Paper","Matplotlib","Infogram","Datawrapper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1143,"ArcGIS","Excel","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1144,"Excel","ggplot2","Power BI","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1145,"ArcGIS","D3","ggplot2","Gephi","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1146,"Excel","ggplot2","R","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1147,"Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1148,"D3","Gephi","Illustrator","Java","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1149,"ggplot2","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1150,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1151,"Illustrator","Matlab",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1152,"Excel","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1153,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1154,"ArcGIS","Excel","Illustrator","Tableau","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1155,"ggplot2","Leaflet","Plotly","Python","QGIS","R","Vega","WebGL","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1156,"Excel","Illustrator","Java","Python","R","ImageJ/Fiji",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157,"ggplot2","Illustrator","Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1158,"D3","Angular","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1159,"D3","Leaflet","Python","React","Vega",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1160,"Excel","ggplot2","Mapbox","Plotly","Power BI","Python","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1161,"Excel","ggplot2","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1162,"ggplot2","Leaflet","Plotly","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1163,"ArcGIS","Illustrator","QGIS","Canva",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1164,"Excel","Illustrator","Web Components","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1165,"ggplot2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1166,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1167,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1168,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1169,"Plotly","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1170,"Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1171,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1172,"Excel","Highcharts","Illustrator","Plotly","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1173,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1174,"ArcGIS","D3","Excel","ggplot2","Gephi","Highcharts","Leaflet","Plotly","Power BI","Python","QGIS","Qlik","R","Tableau","Pentaho",NA,NA,NA,NA,NA
+1175,"ggplot2","Illustrator","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1176,"D3","Angular","Excel","Illustrator","Mapbox","Python","QGIS","React","Pen & Paper","Adobe XD","Axure",NA,NA,NA,NA,NA,NA,NA,NA,NA
+1177,"D3","Excel","Illustrator","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1178,"D3","Leaflet","Mapbox","Python","QGIS","React","Tableau","Vue","Web Components","WebGL","Carto","turf.js",NA,NA,NA,NA,NA,NA,NA,NA
+1179,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1180,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1181,"ggplot2","Power BI","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1182,"ArcGIS","D3","Excel","Illustrator","Leaflet","Mapbox","Processing","Pen & Paper","Canvas","p5.js","NodeBox",NA,NA,NA,NA,NA,NA,NA,NA,NA
+1183,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1184,"D3","Excel","Highcharts","Illustrator","Mapbox","R","Tableau","Vue","Web Components","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1185,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1186,"ArcGIS","Excel","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1187,"Cytoscape","ggplot2","Illustrator","Plotly","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1188,"Excel","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1189,"D3","Tableau","Sketch (software) mock ups",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1190,"Excel","Illustrator","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1191,"ArcGIS","D3","Leaflet","Mapbox","Vue","WebGL","Canvas","Britecharts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1192,"D3","Angular","Excel","Java","Python","Tableau","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1193,"D3","Plotly","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1194,"D3","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1195,"Excel","Python","R","React","Web Components","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1196,"ArcGIS","ggplot2","QGIS","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1197,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1198,"D3","Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1199,"Tableau","SAP Business Objects",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1200,"D3","Mapbox","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1201,"ArcGIS","Excel","Power BI","R","Web Components","Canva",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1202,"ArcGIS","D3","ggplot2","Illustrator","Mapbox","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1203,"D3","Excel","Illustrator","Pen & Paper","Other physical materials","Matlab",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1204,"D3","Excel","Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205,"D3","Leaflet","Python","R","Pen & Paper","Canvas","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1206,"Excel","ggplot2","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1207,"Illustrator","Pen & Paper","MS PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1208,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1209,"Tableau","SQL Developer",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1210,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1211,"Excel","Illustrator","Powerpoint","word",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1212,"D3","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1213,"D3","Excel","Illustrator","Processing","Python","QGIS","Pen & Paper","Canvas","P5/Processing","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1214,"D3","Excel","Illustrator","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1215,"D3","Excel","Illustrator","Power BI","Tableau","Pen & Paper","Other physical materials","It is highly variable",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1216,"D3","Illustrator","Processing","Pen & Paper","Domo","google Sheets",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1217,"D3","React","WebGL","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1218,"Excel","Illustrator","Processing","Tableau","Pen & Paper","Canvas","P5/Processing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1219,"Excel","R","Pen & Paper","PPT",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1220,"D3","Excel","ggplot2","Illustrator","Python","QGIS","R","Tableau","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1221,"D3","ggplot2","Highcharts","Illustrator","Leaflet","Plotly","Processing","Python","R","Tableau","Greensock",NA,NA,NA,NA,NA,NA,NA,NA,NA
+1222,"D3","Excel","Illustrator","React","Web Components","WebGL","Pen & Paper","Greensock","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1223,"ArcGIS","Cytoscape","ggplot2","Gephi","Highcharts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1224,"ArcGIS","Excel","Python","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1225,"D3","Mapbox","Plotly","Python","React","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1226,"D3","React","Semiotic","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1227,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1228,"Excel","ggplot2","Mapbox","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1229,"Excel","ggplot2","Mapbox","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1230,"Excel","Mapbox","Power BI","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1231,"Excel","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1232,"Excel","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1233,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1234,"Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1235,"Excel","Tableau","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1236,"Excel","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1237,"Highcharts","Illustrator","Mapbox","React","Pen & Paper","Sketch","Figma","framers","uxpin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1238,"Power BI","Python","Qlik","R","Tableau","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1239,"Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1240,"Excel","Mapbox","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1241,"ArcGIS","Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1242,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1243,"Cytoscape","Excel","ggplot2","Python","R","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244,"ArcGIS","Excel","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1245,"Excel","ggplot2","Microstrategy","R","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1246,"Excel","ggplot2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1247,"D3","Excel","ggplot2","Highcharts","Mapbox","Power BI","Python","Qlik","Tableau","Pen & Paper","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA
+1248,"Excel","Illustrator","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1249,"Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1250,"Excel","Illustrator","Pen & Paper","Datawrapper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1251,"Excel","Illustrator","Web Components","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1252,"ArcGIS","Excel","Illustrator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1253,"ArcGIS","Illustrator","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1254,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1255,"Excel","Mapbox","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1256,"Excel","Highcharts","Illustrator","Processing","Pen & Paper","Other physical materials","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1257,"Illustrator","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1258,"ggplot2","Python","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1259,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1260,"ArcGIS","D3","ggplot2","Illustrator","Leaflet","Mapbox","Plotly","Python","QGIS","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+1261,"D3","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1262,"ArcGIS","Excel","Gephi","Illustrator","Python","QGIS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1263,"D3","Java","Leaflet","Mapbox","Power BI","Python","QGIS","R","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1264,"D3","Excel","ggplot2","Plotly","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1265,"D3","ggplot2","Illustrator","R","WebGL","Pen & Paper","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1266,"D3","ggplot2","Leaflet","kepler.gl","Plotly","Python","R","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1267,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1268,"D3","ggplot2","Leaflet","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1269,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1270,"Excel","Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1271,"Illustrator","XD","sketch","Figma",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1272,"D3","Excel","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1273,"D3","Leaflet","Mapbox","Python","QGIS","WebGL","google data studio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1274,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1275,"PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1276,"Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1277,"Excel","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1278,"Gephi","Illustrator","Mapbox","QGIS","Tableau","Pen & Paper","Rhino/Grasshopper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1279,"Illustrator","Pen & Paper","inDesign","After Effects",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280,"D3","Excel","ggplot2","Illustrator","R","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1281,"D3","Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1282,"Excel","Illustrator","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1283,"Cytoscape","Excel","ggplot2","Gephi","Illustrator","Mapbox","R","Tableau","Web Components","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1284,"Excel","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1285,"Excel","Illustrator","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1286,"Excel","Gephi","Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1287,"Excel","Illustrator","Processing","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1288,"Illustrator","Processing","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1289,"Illustrator","R","Pen & Paper","Greensock",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1290,"Excel","Illustrator","Tableau","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1291,"D3","Excel","ggplot2","Highcharts","Leaflet","Plotly","R","Web Components",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1292,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1293,"Excel","Gephi","Illustrator","Tableau","Pen & Paper","Piktochart",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1294,"Excel","Illustrator","Pen & Paper","InDesign",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1295,"ArcGIS","Excel","ggplot2","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1296,"Powerpoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1297,"Excel","ggplot2","Power BI","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1298,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1299,"D3","Excel","ggplot2","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1300,"Excel","Gephi","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1301,"Excel","Mapbox","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1302,"ggplot2","Illustrator","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1303,"ArcGIS","Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1304,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1305,"D3","Leaflet","Mapbox","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1306,"Excel","ggplot2","QGIS","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1307,"Excel","Power BI","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1308,"Excel","Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1309,"D3","Excel","Illustrator","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1310,"Excel","ggplot2","Illustrator","Java","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1311,"Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1312,"Highcharts","Illustrator","Mapbox","Plotly","Qlik","Tableau","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1313,"ggplot2","Mapbox","Python","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1314,"ArcGIS","Illustrator","R","Tableau","WebGL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1315,"D3","Leaflet","Mapbox","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1316,"Angular","Excel","Java","Plotly","Power BI","Python","React","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1317,"ArcGIS","Excel","Illustrator","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1318,"D3","Angular","ggplot2","R","Tableau","Pen & Paper","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1319,"D3","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1320,"Excel","ggplot2","Illustrator","Leaflet","Mapbox","Power BI","QGIS","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1321,"Excel","ggplot2","Leaflet","R","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1322,"Excel","Illustrator","Web Components","Pen & Paper","Raw Graphics",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1323,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1324,"Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1325,"Excel","Illustrator","Power BI","Tableau","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1326,"ArcGIS","Excel","ggplot2","Gephi","Illustrator","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1327,"D3","Excel","Illustrator","Python","Svelte",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1328,"ArcGIS","D3","Angular","Excel","ggplot2","Highcharts","Illustrator","Leaflet","Mapbox","Python","React","Tableau","Web Components","WebGL","Pen & Paper",NA,NA,NA,NA,NA
+1329,"D3","Angular","Highcharts","Plotly","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1330,"Tableau","Pen & Paper","Sketch","PowerPoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1331,"Angular","Excel","ggplot2","Other physical materials",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1332,"Qlik","SAP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1333,"ggplot2","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1334,"ArcGIS","Excel","Plotly","Python","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1335,"D3","Excel","Power BI","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1336,"Python","QGIS","Pen & Paper","Other physical materials","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1337,"D3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1338,"Excel","Plotly","R","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1339,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1340,"Power BI","Python","Tableau","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1341,"ArcGIS","D3","Excel","Python","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1342,"Excel","Pen & Paper",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1343,"ArcGIS","Excel","Gephi","Processing","QGIS","R","Tableau","Other physical materials","Powerpoint",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1344,"D3","React","Web Components","WebGL","Canvas","vx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1345,"ggplot2","Plotly","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1346,"Cytoscape","D3","Excel","Highcharts","Illustrator","Mapbox","React",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1347,"D3","Excel","ggplot2","Highcharts","Leaflet","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1348,"D3","Leaflet","Mapbox","React","nivo",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1349,"Excel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1350,"Excel","ggplot2","Mapbox","Power BI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1351,"ggplot2","Python","Tableau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1352,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1353,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1354,"Mapbox","Microstrategy","Power BI","Python","R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1355,"ArcGIS","ggplot2","Leaflet","Plotly","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1356,"Excel","ggplot2","Python",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1357,"Excel","Power BI","Tableau","Canvas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1358,"D3","Excel","Illustrator","Python","QGIS","Pen & Paper","Raw graphs",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1359,"D3","Canvas","Matplotlib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

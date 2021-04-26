@@ -1,7 +1,6 @@
 ---
 title: "Visual Analytic Project"
-description: |
-  A short description of the post.
+description: 
 author:
   - name: Xinyue Bai, Hongting Li, Weimin Zhang
     url: {}
