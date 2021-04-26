@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-04-26-visual-analytic-project/",
+    "title": "Visual Analytic Project",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Xinyue Bai, Hongting Li, Weimin Zhang",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-26",
+    "categories": [],
+    "contents": "\nFinal Deliverables:\nR Shiny\nPoster\nUser Guide\nResearch Paper\nGithub Page\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-26T10:02:56+08:00",
+    "input_file": "visual-analytic-project.utf8.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to ISSS608 Group14",
     "description": "Welcome to our group blog, ISSS608Group14. We are 3 passionate master students from Singapore Management University. We hope you enjoy reading what we have to say! This blog is dedicated to our visual analytic group project.",

@@ -1,0 +1,25 @@
+---
+title: "Visual Analytic Project"
+description: |
+  A short description of the post.
+author:
+  - name: Xinyue Bai, Hongting Li, Weimin Zhang
+    url: {}
+date: 04-26-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+### Final Deliverables:
+
+[R Shiny](https://vizfviz.shinyapps.io/visualisation/)
+
+[Poster](www/3rdPoster.pdf)
+
+[User Guide](www/UserGuide.pdf)
+
+[Research Paper](www/ResearchPaper.pdf)
+
+[Github Page](https://github.com/ISSS608-Group14/Visual-Analytics-Project)
+
